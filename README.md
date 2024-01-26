@@ -2,20 +2,9 @@ Local Library from MDN Website
 
 To run this app type "npm run serverstart"
 
-Used commands for reference
+Used reference
 
-npm install express-generator -g
-
-express --view=pug
-
-npm i
-
-"devstart": "nodemon ./bin/www",
-"serverstart": "SET DEBUG=local-library-mdn:* & npm run devstart"
-
-added script to npm run server
-
-mongodb+srv://shresthgupta:mongocongo@mycluster.okmdaps.mongodb.net/local_library?retryWrites=true&w=majority
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
 
 .populate() -> https://www.geeksforgeeks.org/mongoose-populate-method/
 
